@@ -69,8 +69,8 @@ function App() {
                   <Calendar className="w-8 h-8 text-yellow-300" />
                   <div>
                     <h2 className="text-2xl font-semibold">Quando</h2>
-                    <p className="text-lg">26 e 27 de Abril de 2024</p>
-                    <p className="text-lg">A partir das 16:00</p>
+                    <p className="text-lg">26 e 27 de Abril de 2025</p>
+                    <p className="text-lg">A partir das 18:00</p>
                   </div>
                 </div>
                 <div className="pl-12 text-yellow-200">
